@@ -1,5 +1,5 @@
 ### Hi there, I'm Sam 👋 
-### I'm a full stack dev utilizing ReactJs and Django!!
+### A full stack dev utilizing ReactJs and Django!!
 
 - 🔭 I'm currently working on several personal projects.
 - 🌱 I’m currently learning some more Django stuff.
