@@ -1,5 +1,5 @@
 ### Hi there, I'm Sam 👋 
-### I am currently building software - with/in JavaScript, Python $ Dart/Flutter.
+### I am currently building software - with/in JavaScript, Python & Dart/Flutter.
 
 - 🌱 I’m currently learning Dart and Flutter.
 - 👯 I’m looking to collaborate on any web and soon mobile projects.
