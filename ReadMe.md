@@ -66,6 +66,6 @@
 #### 🖥️ OS and IDEs
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
