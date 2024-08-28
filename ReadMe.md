@@ -24,8 +24,8 @@
 <div style="display: flex; margin-bottom: 20">
 <!-- Backend Tech -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
