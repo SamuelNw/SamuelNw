@@ -1,7 +1,6 @@
 <img width=100% title="SamuelNw" alt="Sam" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Sam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-
-A passionate Fullstack Software Engineer with a knack for building **efficient** and **scalable** Web Apps.
+#### A passionate Fullstack Software Engineer with a knack for building **efficient** and **scalable** Web Apps.
 
 - 🔭 Currently engineering solutions using **JavaScript**, **TypeScript**, and **Python**.
 - 🌱 Continuously learning and refining my skills in all **Web Engineering** fronts.
