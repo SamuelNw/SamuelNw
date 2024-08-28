@@ -15,6 +15,10 @@ A passionate Fullstack Software Engineer with a knack for building **efficient**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelNw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="left">
+	<a href="https://github.com/SamuelNw/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNw&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
+</div>
+
 ### :fire: Tech I'm passionate about:
 
 <div style="display: flex; margin-bottom: 20">
