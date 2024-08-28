@@ -1,4 +1,4 @@
-<img width=100% title="SamuelNw" alt="Sam" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Sam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="SamuelNw" alt="Sam" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Sam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 #### A passionate Fullstack Software Engineer with a knack for building **efficient** and **scalable** Web Apps.
 
