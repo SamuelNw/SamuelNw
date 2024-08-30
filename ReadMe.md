@@ -37,7 +37,6 @@
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="45" height="45" alt="NextJs" />
   <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-  <img src="https://upload.vectorlogo.zone/logos/vitejsdev/images/3bd5fcdd-c2eb-46b4-9232-921c3a6cc7ec.svg" title="Vite" alt="Vite" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
 
 <!-- Cloud Tech -->
