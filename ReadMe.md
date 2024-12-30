@@ -19,8 +19,8 @@
 	<a href="https://github.com/SamuelNw/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNw&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
 </div>
 
-<div style="margin-top: 20px;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelNw&theme=xcode&hide_border=true" />
+<div style="margin-top: 50px;">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelNw&theme=xcode&hide_border=true" />
 </div>
 
 #### :fire: Tech I'm passionate about:
