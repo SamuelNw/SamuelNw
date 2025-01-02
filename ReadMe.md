@@ -10,22 +10,10 @@
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [Linktree](https://linktr.ee/SamuelNWanyoike)
 
-![](https://komarev.com/ghpvc/?username=SamuelNw)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelNw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="left">
-	<a href="https://github.com/SamuelNw/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNw&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
-</div>
-
-<div style="margin-top: 50px;">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelNw&theme=xcode&hide_border=true" />
-</div>
 
 #### :fire: Tech I'm passionate about:
 
-<div style="display: flex; margin-bottom: 20">
+<div style="display: flex;">
 <!-- Backend Tech -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
@@ -48,3 +36,22 @@
   <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
 
 </div>
+
+<br>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelNw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div align="left">
+	<a href="https://github.com/SamuelNw/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNw&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
+</div>
+
+<br>
+
+<div>
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelNw&theme=xcode&hide_border=true" />
+</div>
+
+<br>
+
+
+![](https://komarev.com/ghpvc/?username=SamuelNw)
