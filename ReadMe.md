@@ -16,6 +16,7 @@
 <div style="display: flex;">
 <!-- Backend Tech -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
