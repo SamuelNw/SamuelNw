@@ -15,25 +15,25 @@
 
 <div style="display: flex;">
 <!-- Backend Tech -->
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="35" height="35" alt="FastAPI" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
 
 <!-- Frontend Tech -->
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="45" height="45" alt="NextJs" />
-  <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="35" height="35" alt="NextJs" />
+  <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="MUI v5" />
   <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
 
 <!-- Cloud Tech -->
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
 
 </div>
