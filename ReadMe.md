@@ -6,7 +6,7 @@
 - 🌱 Continuously learning and refining my skills in all **Web Engineering** fronts.
 - 👯 Open to collaborating on innovative web projects and contributing to open-source.
 - 🚀 Focused on delivering clean, maintainable code with a strong emphasis on quality and performance.
-- 🧩 In my free time, I enjoy solving LeetCode challenges
+- 🧩 In my free time, I enjoy solving LeetCode challenges & Chess puzzles.
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [Linktree](https://linktr.ee/SamuelNWanyoike)
 
@@ -17,7 +17,7 @@
 <!-- Backend Tech -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="38" height="38" alt="FastAPI" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
