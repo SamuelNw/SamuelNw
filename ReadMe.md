@@ -8,7 +8,7 @@
 - 🚀 Focused on delivering clean, maintainable code with a strong emphasis on quality and performance.
 - 🧩 In my free time, I enjoy solving LeetCode challenges & Chess puzzles.
 - 😄 Pronouns: he/him
-- 📫 How to reach me: [Linktree](https://linktr.ee/SamuelNWanyoike)
+- 📫 Other ways to reach me: [Linktree](https://linktr.ee/SamuelNWanyoike)
 
 
 #### :fire: Tech I'm passionate about:
